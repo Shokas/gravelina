@@ -16,3 +16,12 @@ This project is backed by guys @ [Serveraldas](https://serveraldas.lt), probably
 ## Contributing
 
 Contributions are always welcome, feel free to create PR with bugfixes, improvements and etc. No spaghetti please.
+
+## Local development
+
+- php composer install
+- php artisan migrate
+- php artisan db:seed --class=RoleSeeder
+- npm install
+- npm run dev
+
