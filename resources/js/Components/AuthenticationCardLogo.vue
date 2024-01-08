@@ -11,14 +11,6 @@ import {Link} from '@inertiajs/vue3';
             fill="#111213"
 
         >
-            <defs>
-                <style>
-                    .cls-1 {
-                        fill: #111213;
-                        stroke-width: 0px;
-                    }
-                </style>
-            </defs>
             <g>
                 <path class="cls-1" d="m10.25,79.23c4.95-3.94,53.24-32.74,56.5-33,9.25-.74,12.39,24.47,14.75,30.75"/>
                 <g>
